@@ -1,2 +1,3 @@
 # hello-world2
-my example repository
+#my example repository
+I love :coffee: and :pizza:
